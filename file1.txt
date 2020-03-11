@@ -1,1 +1,2 @@
 some text here, this is file1
+this is changed content from this file
